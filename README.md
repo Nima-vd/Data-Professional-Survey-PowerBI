@@ -116,6 +116,13 @@ Most respondents believe entering the data profession is **neither easy nor diff
 
 ![Dashboard](Dashboard.png)
 
+## 📥 Download the Dashboard
+
+You can download the Power BI dashboard from the **Dashboard** folder.
+
+**File:** `Data Professional Survey.pbix`
+
+> Open the file using Microsoft Power BI Desktop.
 ---
 
 ## 📚 Skills Demonstrated
